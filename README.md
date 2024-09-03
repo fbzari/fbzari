@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fbzari&show_icons=true&locale=en" alt="fbzari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fbzari&" alt="fbzari" /></p>
+<br/>
+
+[![Ari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fbzari&bg_color=000000&color=fcfcfc&line=ff0040&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
