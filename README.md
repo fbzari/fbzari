@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Angular, .Net Core and .Net Core Web API**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fbzari](https://github.com/fbzari)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/fbzari)
 
 - 💬 Ask me about **.Net Core Related things and all.**
 
 - 📫 How to reach me **aridheena@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15x8Wvcu3PkwR8R3qmnR_ne6j8HbMpge_/view?usp=sharing](https://drive.google.com/file/d/15x8Wvcu3PkwR8R3qmnR_ne6j8HbMpge_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15x8Wvcu3PkwR8R3qmnR_ne6j8HbMpge_/view?usp=sharing)
 
 - ⚡ Fun fact **I am budding Developer. I am ready to contribute Open source projects. If any let me know.**
 
