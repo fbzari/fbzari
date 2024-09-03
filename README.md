@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/2c/88/fb/2c88fb4b14f508c2f6a95386d54ed99b.jpg)
+![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Ariya Nayagan T</h1>
 <h3 align="center">A passionate Dot net developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhnazN3MHh4OWh4OW96YW82a3pmaXV0b3IzeTl0aXFtams2MnFzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
