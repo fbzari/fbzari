@@ -1,6 +1,6 @@
 ![MasterHead](MyBanner.png)
 <h1 align="center">Hi 👋, I'm Ariya Nayagan T</h1>
-<h3 align="center">A passionate Dot net developer from India</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=460&lines=A+passionate+.Net+developer+from+India" alt="Typing SVG" /></a></h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhnazN3MHh4OWh4OW96YW82a3pmaXV0b3IzeTl0aXFtams2MnFzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fbzari&label=Profile%20views&color=0e75b6&style=flat" alt="fbzari" /> </p>
